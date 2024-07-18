@@ -1,5 +1,5 @@
 ## Overview
-In this project we have build a complete snake and apple video game using pygame module.  
+In this project I have built a complete snake and apple video game using pygame module.  
 Snake and apple is a simple game where when snake eats an apple it gets longer and your score increases.If you snake hits any part of its body it will die.  
 
 This repository contains a Python project with a primary script `main.py`.  

@@ -14,3 +14,5 @@ crash.mp3
 ding.mp3  
 
 Ensure these  files are present in the resources directory.
+
+![Game Preview](game.preview.gif)

@@ -15,4 +15,4 @@ ding.mp3
 
 Ensure these  files are present in the resources directory.
 
-![Game Preview](game_preview.gif)
+![Game Preview](ezgif-47b5659a2ce776.gif)
